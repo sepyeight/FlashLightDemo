@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ControllerViewDemo</string>
+    <string name="灯泡">bulb</string>
+    <string name="开灯">on</string>
+    <string name="关灯">off</string>
+</resources>
