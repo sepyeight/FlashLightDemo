@@ -50,6 +50,10 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    /**
+     * open close light
+     * @param lightStatus
+     */
     private void lightSwitch(boolean lightStatus) {
         if(lightStatus){
             if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
